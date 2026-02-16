@@ -10,21 +10,21 @@ export default function Achievements() {
       highlight: "#1 out of 500 finalist teams",
       description:
         "Led Team Pegasus to first place in the Blockchain domain, shortlisted from over 50,000 teams nationwide.",
-      image: "/achievements/SIH.jpeg",
+      image: "/Achievements/SIH.jpeg",
     },
     {
       title: "FKCCI Manthan Business Plan – Top 25",
       highlight: "Top 25 out of 400 teams",
       description:
         "Recognized for designing Secure Sky Connect, a drone-based blood delivery solution integrating blockchain.",
-      image: "/achievements/Manthan.png",
+      image: "/Achievements/Manthan.png",
     },
     {
       title: "Origin Impact Weekend – Winner",
       highlight: "USC TiE Hub | Sponsored by Google",
       description:
         "Led a cross-functional team to build and present a rapid prototype within 48 hours, securing first place at Origin Impact Weekend.",
-      image: "/achievements/Origin.jpg",
+      image: "/Achievements/Origin.jpg",
     },
   ];
 
