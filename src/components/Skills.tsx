@@ -2,7 +2,7 @@ export default function Skills() {
   const skillCategories = [
     {
       title: "Programming Languages",
-      skills: ["Python", "Java", "C++", "C", "SQL", "Solidity", "JavaScript"],
+      skills: ["Python", "Java", "C", "SQL", "Solidity", "JavaScript","TypeScript"],
     },
     {
       title: "Backend & Web Development",
@@ -54,6 +54,20 @@ export default function Skills() {
         "Metamask",
         "Ganache",
         "Truffle",
+      ],
+    },
+    {
+      title: "Leadership & Soft Skills",
+      skills: [
+        "Leadership",
+        "Cross-Functional Collaboration",
+        "Technical Communication",
+        "Rapid Prototyping",
+        "Problem Solving",
+        "Public Speaking",
+        "Mentorship",
+        "Event Coordination",
+        "Agile Teamwork",
       ],
     },
   ];
