@@ -23,7 +23,7 @@ export default function Navbar() {
           </h1>
 
           <div className="hidden md:flex space-x-6">
-            {["Home","About","Experience","Skills","Projects","Contact"].map((item) => (
+          {["Home","About","Experience","Achievements","Skills","Projects","Contact"].map((item) => (
               <a
                 key={item}
                 href={`#${item.toLowerCase()}`}
