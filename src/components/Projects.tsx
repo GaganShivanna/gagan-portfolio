@@ -10,8 +10,8 @@ export default function Projects() {
       description:
         "Built a decentralized platform ensuring financial transparency for NGOs by recording donations on blockchain with government-verified registration and full donor visibility.",
       image: "/projects/Blockchain.jpg",
-      github: "#",
-      demo: "#",
+      github: "https://github.com/GaganShivanna/NGO-BLOCKCHAIN-PROJECT",
+      demo: "https://github.com/GaganShivanna/NGO-BLOCKCHAIN-PROJECT",
     },
     {
       title: "Automated PCB Defect Detection",
@@ -19,8 +19,8 @@ export default function Projects() {
       description:
         "Developed an automated optical inspection system to detect PCB defects with efficient classification and detailed reporting.",
       image: "/projects/PCB.jpg",
-      github: "#",
-      demo: "#",
+      github: "https://github.com/GaganShivanna/Yolov5-WebUI",
+      demo: "https://github.com/GaganShivanna/Yolov5-WebUI",
     },
     {
       title: "Mulberry Leaf Deficiency Detection",
@@ -28,8 +28,8 @@ export default function Projects() {
       description:
         "Built a machine learning model to detect leaf deficiencies, helping farmers improve crop yield through early detection.",
       image: "/projects/Mulberry.png",
-      github: "#",
-      demo: "#",
+      github: "https://github.com/GaganShivanna?tab=repositories",
+      demo: "https://github.com/GaganShivanna?tab=repositories",
     },
     {
       title: "Scalable E-Commerce Platform",
@@ -37,8 +37,8 @@ export default function Projects() {
       description:
         "Architected a scalable full-stack e-commerce system supporting secure payments and high concurrent transactions.",
       image: "/projects/dropship.jpg",
-      github: "#",
-      demo: "#",
+      github: "https://github.com/GaganShivanna/E-commerce",
+      demo: "https://github.com/GaganShivanna/E-commerce",
     },
     {
       title: "Sentiment Analysis System",
@@ -46,8 +46,8 @@ export default function Projects() {
       description:
         "Implemented a sentiment classification system for analyzing customer feedback and social media opinions.",
       image: "/projects/sentiment.jpeg",
-      github: "#",
-      demo: "#",
+      github: "https://github.com/GaganShivanna/JITHACK22",
+      demo: "https://github.com/GaganShivanna/JITHACK22",
     },
     {
       title: "Secure Sky Connect – Blood Delivery App",
@@ -55,8 +55,8 @@ export default function Projects() {
       description:
         "Created a drone-based emergency blood delivery system integrating blockchain for secure tracking and transparency.",
       image: "/projects/coast.jpg",
-      github: "#",
-      demo: "#",
+      github: "https://github.com/GaganShivanna?tab=repositories",
+      demo: "https://github.com/GaganShivanna?tab=repositories",
     },
     {
       title: "Blocking Malicious Websites – Browser Extension",
@@ -64,8 +64,8 @@ export default function Projects() {
       description:
         "Developed a browser extension that enhances online safety by blocking phishing and malicious websites.",
       image: "/projects/Malicious.jpg",
-      github: "#",
-      demo: "#",
+      github: "https://github.com/GaganShivanna/Blocking-Malicious-Websites",
+      demo: "https://github.com/GaganShivanna/Blocking-Malicious-Websites",
     },
   ];
 
