@@ -5,6 +5,27 @@ import { motion } from "framer-motion";
 export default function Experience() {
   const experiences = [
     {
+      role: "Viterbi Graduate Orientation Leader",
+      company: "University of Southern California",
+      duration: "Dec 2025 – Present",
+      points: [
+        "Guided incoming graduate students through orientation, providing structured support on academic resources, campus systems, and student life.",
+        "Supported international students in navigating cultural adaptation and university processes, ensuring a smooth transition into the community.",
+        "Collaborated with faculty, staff, and fellow leaders to coordinate orientation activities and improve program effectiveness.",
+      ],
+    },
+    {
+      role: "Campus Ambassador",
+      company: "Rooman Technologies",
+      duration: "Sept 2024 – Feb 2025",
+      points: [
+        "Represented the organization on campus, acting as the primary point of contact between students and the core team.",
+        "Led a team of student volunteers to plan and execute technical and networking events.",
+        "Increased student engagement by driving awareness campaigns through strategic outreach and social media promotion.",
+        "Coordinated cross-functional communication between event sponsors, organizers, and campus administration.",
+      ],
+    },
+    {
       role: "Software Engineer Intern",
       company: "Supraja Technologies",
       duration: "Feb 2024 – July 2024",
@@ -25,6 +46,7 @@ export default function Experience() {
       ],
     },
   ];
+  
 
   return (
     <section id="experience" className="py-32 bg-gray-50">
